@@ -75,7 +75,7 @@ body {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  #process .content-row h2 {
+  #servicos .content-row h2 {
     min-height: 6em;
   }
 }
@@ -103,7 +103,7 @@ body {
 }
 
 #intro {
-  color: #ffffff;
+    color: #ffffff;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -306,13 +306,13 @@ i {
   }
 }
 
-#process {
+#servicos {
   background-color: #34495e;
   color: #e4e6e5;
   padding-top: 90px;
 }
 
-#process i {
+#servicos i {
   font-size: 80px;
   color: white;
 }
@@ -483,11 +483,18 @@ i {
   color: #999;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9c456cee0f3dbc6c5bfaa8b7dfe49c31378efb1a
 /* WHATSAPP FIXO */
 .whatsapp-fixo {
 position: fixed;
 bottom:10px;
 right:10px;
 z-index: 999;
+<<<<<<< HEAD
 }''
+=======
+}
+>>>>>>> 9c456cee0f3dbc6c5bfaa8b7dfe49c31378efb1a
